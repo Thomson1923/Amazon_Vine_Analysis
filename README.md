@@ -19,4 +19,4 @@
 ## Comparative Percentages – Vine reviewers submitted five-star ratings at the rate of 44% while non-Vine reviewers submitted five-star responses 62% of the time.
 #
 # Summary
-##The lower incidence of five-star ratings from the Vine reviewers suggest that this group may have more demanding criteria for the highest rating than the public at large. We recommend a follow-up study examining Vine and non-Vine reviews at the lower end of the rating scale (zero-stars or one-star) to see if our conjecture about the more demanding Vine reviewers is correct.
+## The lower incidence of five-star ratings from the Vine reviewers suggest that this group may have more demanding criteria for the highest rating than the public at large. We recommend a follow-up study examining Vine and non-Vine reviews at the lower end of the rating scale (zero-stars or one-star) to see if our conjecture about the more demanding Vine reviewers is correct.
